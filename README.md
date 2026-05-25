@@ -72,8 +72,8 @@ do Kruskal ser executado.
 
 | Tipo | Representação | Peso |
 |------|---------------|------|
-| Caminhada entre os primeiros `e` treehouses | Pré-conexão no DSU via `union(i, i+1)` | gratuito |
-| Cabo já existente entre `a` e `b` | Pré-conexão no DSU via `union(a-1, b-1)` | gratuito |
+| Caminhada entre os primeiros `e` treehouses | Pré-conexão no DSU via `union(i, i+1)` | zero |
+| Cabo já existente entre `a` e `b` | Pré-conexão no DSU via `union(a-1, b-1)` | zero |
 | Cabo novo possível entre `i` e `j` | Aresta explícita na lista do Kruskal | distância euclidiana |
 
 ### Estratégia de modelagem

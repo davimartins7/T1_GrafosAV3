@@ -11,9 +11,9 @@
 
 | Nome | Matrícula |
 |------|-----------|
-| *(Integrante 1)* | *(xxxxxxxx)* |
-| *(Integrante 2)* | *(xxxxxxxx)* |
-| *(Integrante 3)* | *(xxxxxxxx)* |
+| *(Paulo Afonso)* | *(2410449)* |
+| *(Isaac Coelho)* | *(2410503)* |
+| *(Davi Martins)* | *(2410526)* |
 
 ---
 
